@@ -20,7 +20,7 @@ import (
 )
 
 const (
-	api      = "https://api.lolicon.app/setu/v2"
+	api      = "https://api.lolicon.app/setu/v2?r18=1"
 	capacity = 10
 )
 
